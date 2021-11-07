@@ -11,6 +11,7 @@
     justify-content: space-around;
     padding-top: 32px;
     position: relative;
+    background-size: 100%;
 }
 .nav-li{
     display: inline-block;
@@ -77,6 +78,7 @@
 /* section-1 left-box */
 .left-box{
     max-width: 444px;
+    width: 100%;
     background-color:white;
 }
 .left-box h5{
@@ -162,6 +164,7 @@ justify-content: space-around;
     height: 612px;
     margin-top: 90px;
     align-items: center;
+    background-size: 100%;
 
 }
 .div-boxes{
@@ -228,4 +231,7 @@ font-family:'Poppins', sans-serif;
 font-weight: bolder;
 margin-left: 139px;
 padding-top: 92px;
+}
+.img{
+    width: 100%;
 }
