@@ -1,8 +1,30 @@
 @media(max-width: 750px){
     .burger-bar{
         display: block;
+        display: flex;
     }
     .navigation{
         display: none;
+    }
+}
+
+@media(max-width:1235px){
+    .div-boxes{
+        margin-left: 0px;
+    }
+}
+@media(max-width:550px){
+    .section-2-div h2{
+        margin-left: 0px;
+    }
+}
+@media(max-width:550px){
+    .section-2-div h5{
+        margin-left: 0px;
+    }
+}
+@media(max-width:550px){
+    .div-absolute{
+        left:0px
     }
 }
