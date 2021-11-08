@@ -28,3 +28,17 @@
         left:0px
     }
 }
+
+@media(max-width:550px){
+    .small-box{
+        margin-bottom: 10px;
+    }
+}
+
+
+@media(max-width:550px){
+    .img-1{
+        margin-right: 0px;
+    }
+}
+
